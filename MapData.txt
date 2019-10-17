@@ -1,0 +1,33 @@
+Stadium, 129, 269, Tennis Courts, Football Fields
+Mizan, 244, 458, Tennis Courts, Health Center, Atair
+Middle School Building, 727, 473, Guest House, Auditorium
+New Dining Hall, 625, 132, Meissa, Dining Hall, Gym
+Meissa, 519, 179, New Dining Hall, Gym, Murzeim, Nihal, Alnilam
+Faculty Housing, 380, 597, Health Center, Hadar, Janah
+Jumean, 446, 404, Atair, Janah, Sulafat, Alnilam
+Gym, 362, 169, Tennis Courts, New Dining Hall, Handball Courts
+Atair, 388, 351, Murzeim, Health Center, Mizan, Jumean
+Janah, 432, 466, Sulafat, Jumean, Faculty Housing, Mizan, Health Center
+Murzeim, 437, 243, Atair, Tennis Courts, Meissa, Alnilam
+Tennis Courts, 292, 270, Gym, Stadium, Mizan, Atair, Murzeim
+Nihal, 581, 243, Student Union, Meissa, Alnilam, Sulafat
+Football Fields, 312, 102, Handball Courts, Stadium
+Guest House, 644, 436, Beit al Mudeer, Middle School Building, Sulafat
+Handball Courts, 416, 84, Football Fields, Basketball Courts, Gym
+Administration Building, 927, 391, Auditorium, Clock Tower, Gallery
+Sulafat, 536, 461, Janah, Jumean, Guest House, Nihal, Hadar
+Student Union, 670, 277, Dining Hall, Nihal, Humanities Building
+Alnilam, 494, 307, Murzeim, Atair, Nihal, Jumean, Meissa
+Basketball Courts, 498, 87, Handball Courts
+Spiritual Center, 781, 184, Humanities Building, Dining Hall
+Humanities Building, 832, 210, Spiritual Center, Student Union, Science Wing
+Fine Arts Building, 873, 354, Gallery, Library, Science Wing
+Health Center, 320, 538, Mizan, Atair, Janah, Faculty Housing
+Auditorium, 931, 497, Middle School Building, Administration Building
+Gallery, 873, 382, Fine Arts Building, Administration Building, Library, Clock Tower
+Dining Hall, 669, 185, Spiritual Center, New Dining Hall, Meissa, Student Union
+Hadar, 476, 604, Faculty Housing, Sulafat
+Beit al Mudeer, 640, 369, Guest House, Library
+Science Wing, 855, 267, Fine Arts Building, Humanities Building
+Library, 767, 349, Beit al Mudeer, Fine Arts Building, Gallery
+Clock Tower, 811, 428, Administration Building, Gallery
